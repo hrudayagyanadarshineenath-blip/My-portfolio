@@ -1852,27 +1852,59 @@ section {
 }
 
 
+/* About Page - Square Outer Box */
+
 .about-avatar {
-
+    width: 100%;
     height: 330px;
-
     border-radius: 18px;
 
     display: flex;
-
     align-items: center;
-
     justify-content: center;
 
-    background:
-        linear-gradient(
-            145deg,
-            var(--soft-pink),
-            #FFFFFF
-        );
+    background: linear-gradient(
+        145deg,
+        var(--soft-pink),
+        #FFFFFF
+    );
 
     border: 1px solid var(--border-color);
+    overflow: hidden;
+}
 
+/* About Page - Circular Profile Picture */
+
+.about-avatar .profile-avatar {
+    width: 220px;
+    height: 220px;
+    margin: 0;
+
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 5px solid white;
+    background: var(--soft-pink);
+
+    flex-shrink: 0;
+}
+
+/* About Page - Image Inside Circle */
+
+.about-avatar .profile-avatar img {
+    width: 100%;
+    height: 100%;
+
+    max-width: none;
+    object-fit: cover;
+    object-position: center;
+
+    display: block;
+    border-radius: 50%;
 }
 
 
@@ -3984,12 +4016,16 @@ section {
 
 
     .profile-avatar {
-
-        width: 105px;
-
-        height: 105px;
-
-    }
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid #E11D48;
+    background: #FFE4E6;
+    flex-shrink: 0;
 
 
     .profile-avatar span {
