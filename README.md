@@ -2,13 +2,13 @@
 
 Welcome to my personal portfolio website! This project showcases my profile, skills, projects, and interests through a modern and interactive web design.
 
-## 👩‍💻 About Me
+##  About Me
 
 Hi, I'm **Hrudaya Gyanadarshinee Nath**, a student and aspiring developer passionate about web development, programming, and creating interactive digital experiences.
 
 This portfolio is designed to introduce me, highlight my projects, and provide a way to connect with me.
 
-## ✨ Features
+##  Features
 
 * **Home Page:** A welcoming introduction with navigation to other sections.
 * **About Me:** Information about my background and interests.
@@ -20,14 +20,14 @@ This portfolio is designed to introduce me, highlight my projects, and provide a
 * **Mobile Navigation:** A menu designed for smaller screens.
 * **Rose-Themed Interface:** A soft pink and burgundy color palette.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
 * HTML Canvas API
 
-## 🎨 Design Theme
+##  Design Theme
 
 The website uses a soft pink and rose-inspired design.
 
@@ -40,9 +40,9 @@ The website uses a soft pink and rose-inspired design.
 | Network Lines | `#FDA4AF` |
 | Main Text     | `#3F1720` |
 
-## 📂 Project Structure
+##  Project Structure
 
-```text
+
 portfolio/
 ├── index.html
 ├── about.html
@@ -56,7 +56,7 @@ portfolio/
 └── README.md
 ```
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Download or clone this repository.
 2. Open the project folder.
@@ -64,7 +64,7 @@ portfolio/
 
 For a better development experience, you can use the **Live Server** extension in Visual Studio Code.
 
-## 🧠 Neural Network Animation
+##  Neural Network Animation
 
 The portfolio features a custom Canvas-based neural network animation.
 
@@ -73,11 +73,11 @@ The portfolio features a custom Canvas-based neural network animation.
 * Glowing signal pulses travel between connected nodes.
 * The animation uses rose and burgundy colors to match the website theme.
 
-## 🎯 Project Purpose
+##  Project Purpose
 
 This portfolio was created to present my skills, projects, and development journey in a visually engaging and interactive way.
 
-## 📬 Contact
+##  Contact
 
 **Hrudaya Gyanadarshinee Nath**
 
@@ -85,4 +85,4 @@ Feel free to explore my projects and connect with me through my portfolio.
 
 ---
 
-⭐ Thank you for visiting my portfolio!
+   Thank you for visiting my portfolio!
